@@ -223,6 +223,9 @@ En el siguiente link se podra consultar el inventario de pruebas manuales
 
 ### Video de resultados
 
+En el siguiente link se podra consultar el video de resultados
+
+[Video de resultados](https://drive.google.com/file/d/1lnHDcfF3244SeZmXkGZRihYSrJPxa33m/view?usp=sharing)
 
 
 
